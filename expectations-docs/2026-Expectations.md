@@ -87,4 +87,5 @@
 - [Amario](https://github.com/aiamerson)
 - [Des](https://github.com/DesmondD10)
 - [Nije'l](https://github.com/Nijel05)
-- [Kameron](https://github.com/kameron-ctrl) 
+- [Kameron](https://github.com/kameron-ctrl)
+- [Jaden](https://github.com/JadenLunsford)
