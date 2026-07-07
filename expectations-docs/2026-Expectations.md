@@ -89,3 +89,4 @@
 - [Nije'l](https://github.com/Nijel05)
 - [Kameron](https://github.com/kameron-ctrl)
 - [Jaden](https://github.com/JadenLunsford)
+- [Kendall](https://github.com/kendall-hill)
