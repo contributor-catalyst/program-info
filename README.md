@@ -51,6 +51,7 @@
 - [GET APP](https://dining.ucsc.edu/get/) used to track different dining point balances.
 - [Summer Recreation (campus gym) hours](https://recreation.ucsc.edu/facilities/index.html)
 - [Summer dining hours](https://dining.ucsc.edu/summer/) _(Note: Nine/Lewis and Porter dining halls are also open around mealtimes)_
+- [Summer library hours](https://calendar.library.ucsc.edu/hours/)
 - [Laundry App](https://mycscgo.com/laundry) _(Note: Sign up for $5 Laundry Credit. Scroll down if there's no pop-up)_
 - Conference Services After Hours (for lockouts or other housing needs): (831) 332-0705
 - Community Safety Officer (CSO) dispatch (for safety assistance, noise complaints, etc. 7pm-3am): [(831) 459-2100](tel:18314592100)
