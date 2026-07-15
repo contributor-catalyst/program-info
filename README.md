@@ -12,6 +12,7 @@
 [Portfolio](https://aiamerson.github.io/portfolio/)
 ### **[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**
 ### **[🎮Amari🏠](https://github.com/MarsGray)**
+> [Portfolio](https://MarsGray.github.io/portfolio)
 ### **[😎Jaden🎸](https://github.com/JadenLunsford)**
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
 ### **[💮Kendall💮](https://github.com/kendall-hill)**
