@@ -15,6 +15,7 @@
 ### **[🎮Amari🏠](https://github.com/MarsGray)**
 > [Portfolio](https://MarsGray.github.io/portfolio)
 ### **[😎Jaden🎸](https://github.com/JadenLunsford)**
+> [Portfolio](https://jadenlunsford.github.io/portfolio/)
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
 > [Portfolio](https://desmondd10.github.io/portfolio/)
 ### **[💮Kendall💮](https://github.com/kendall-hill)**
