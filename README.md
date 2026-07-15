@@ -3,9 +3,9 @@
 
 ## Meet the 2026 Cohort
 ### **[⚔️Nije'l🎱](https://github.com/Nijel05)**
- > [Portfolio](https://nijel05.github.io/portfolio/)
+> [Portfolio](https://nijel05.github.io/portfolio/)
 ### [💅🏾Mariah💻](https://github.com/riahdollxo)
->[Portfolio](https://riahdollxo.github.io/portfolio/)
+> [Portfolio](https://riahdollxo.github.io/portfolio/)
 ### **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**
 > [Portfolio](https://silasvm.github.io/portfolio/)
 ### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
@@ -21,7 +21,7 @@
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
 > [Portfolio](https://desmondd10.github.io/portfolio/)
 ### **[💮Kendall💮](https://github.com/kendall-hill)**
-[Portfolio](https://kendall-hill.github.io/portfolio/)
+> [Portfolio](https://kendall-hill.github.io/portfolio/)
 ### **[🌃Jordin🪐](https://github.com/Jordin221)**
 > [Portfolio](https://jordin221.github.io/portfolio/)
 
