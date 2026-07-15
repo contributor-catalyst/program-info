@@ -10,7 +10,7 @@
 ### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
 > [Portfolio](https://kameron-ctrl.github.io/portfolio/)
 ### **[☠️Amario💎](https://github.com/aiamerson)**
-[Portfolio](https://aiamerson.github.io/portfolio/)
+> [Portfolio](https://aiamerson.github.io/portfolio/)
 ### **[🕷️Xavier🕺🏾](https://github.com/xmcgee26)**
 ### **[🎮Amari🏠](https://github.com/MarsGray)**
 > [Portfolio](https://MarsGray.github.io/portfolio)
