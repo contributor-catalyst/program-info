@@ -21,6 +21,7 @@
 ### **[👨🏿‍💻Des🎥](https://github.com/DesmondD10)**
 > [Portfolio](https://desmondd10.github.io/portfolio/)
 ### **[💮Kendall💮](https://github.com/kendall-hill)**
+[Portfolio](https://kendall-hill.github.io/portfolio/)
 ### **[🌃Jordin🪐](https://github.com/Jordin221)**
 > [Portfolio](https://jordin221.github.io/portfolio/)
 
