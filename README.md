@@ -3,6 +3,7 @@
 
 ## Meet the 2026 Cohort
 ### **[⚔️Nije'l🎱](https://github.com/Nijel05)**
+ > *[Portfolio:](https://nijel05.github.io/portfolio/)*
 ### [💅🏾Mariah💻](https://github.com/riahdollxo)
 ### **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**
 ### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
