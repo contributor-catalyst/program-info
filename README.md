@@ -5,6 +5,7 @@
 ### **[⚔️Nije'l🎱](https://github.com/Nijel05)**
  > [Portfolio](https://nijel05.github.io/portfolio/)
 ### [💅🏾Mariah💻](https://github.com/riahdollxo)
+>[Portfolio](https://riahdollxo.github.io/portfolio/)
 ### **🎸🌱[Silas](https://github.com/SilasVM)📸🎆**
 > [Portfolio](https://silasvm.github.io/portfolio/)
 ### **[⚡Kameron🏂🏿](https://github.com/kameron-ctrl)**
